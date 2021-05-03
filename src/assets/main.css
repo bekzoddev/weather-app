@@ -66,6 +66,12 @@ section {
   border: none!important;
 }
 input {
+  display: block;
+  padding: 7px 30px;
+  height: 40px;
   border: none;
   outline: none;
+}
+.search {
+  align-items: center;
 }
